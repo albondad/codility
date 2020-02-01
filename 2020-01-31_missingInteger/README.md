@@ -6,7 +6,9 @@ This is a demo task.
 
 Write a function:
 
+'''c++
 int solution(vector<int> &A);
+'''
 
 that, given an array A of N integers, returns the smallest positive integer (greater than 0) that does not occur in A.
 
