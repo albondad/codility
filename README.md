@@ -4,4 +4,4 @@ A place to store my solutions from [Codility](https://www.codility.com/), a tool
 [Click here to vist Codility.](https://www.codility.com/)
 
 # Tools
-Python
+C++
